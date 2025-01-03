@@ -5,7 +5,7 @@ import (
 
 	"github.com/fsnotify/fsnotify"
 	"github.com/spf13/viper"
-	"local/cmd"
+	"github.com/stnguyenn/go-cli/cmd"
 )
 
 func main() {
